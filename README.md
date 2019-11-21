@@ -1,2 +1,2 @@
-# myapp
-first app creation
+hello
+welcome friends
